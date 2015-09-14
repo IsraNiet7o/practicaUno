@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: practicaUno
+        psr4_prefix: practicaUno
+        src_path: app
